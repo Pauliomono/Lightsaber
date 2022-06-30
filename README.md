@@ -13,3 +13,5 @@ Features include:
 The entire handle is custom 3D printed and hand painted.
 
 Electronics are handled by an Adafruit Feather M4 microcontroller with the Adafruit propshield. An MPU6050 is used for accelometer and gyroscope data. Lighting is achieved through a Neopixel strip. The lightsaber is powered by an 18650 lithium cell.
+
+Future plans to fabricate a new handle out of aluminum and add more lighting functionality/animations.
